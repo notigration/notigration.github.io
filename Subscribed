@@ -1,0 +1,23 @@
+<!DOCTYPE html">
+<head><meta http-equiv="Content-Type" content="text/html;&#32;charset=utf-8" /><meta name="robots" content="noindex" /><title>
+	You have successfully subscribed to this list
+</title><link href="http://css.createsend1.com/css/landing-pages.min.css?h=8AFBE8550401" media="screen,projection" rel="stylesheet" type="text/css" /></head>
+
+<body>
+	<div class="container">
+		<div class="title">
+            
+    <h2>Thank You</h2>
+    <p>Your subscription has been confirmed. You've been added to our list and will hear from us soon.</p>
+
+		</div>
+        
+    <div class="cta">
+	    <div class="action icon-added"><a href="javascript:history.go(-1)">Click here</a> to return to the site.</div>
+    </div>
+
+	</div>            
+    
+
+</body>
+</html>
